@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/html5up-massively 2"
+		},
+		{
+			"path": "../html5up-massively"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html5up-massively"
+	}
+}
